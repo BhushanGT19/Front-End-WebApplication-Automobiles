@@ -1,0 +1,4 @@
+This is a Front-End Web Application designed for the subject of Automobiles, built using HTML, CSS, JavaScript, and Bootstrap. The project serves as an interactive platform where users can explore various aspects of the automobile world, such as car models, features, specifications, and more. The app is visually appealing and responsive, ensuring a smooth user experience across various devices and screen sizes.
+
+Utilizing Bootstrap, the app is designed with a mobile-first approach and features a modern and user-friendly interface. JavaScript adds dynamic behavior, allowing for interactive elements like car image galleries, filtering options, and real-time data display. The goal of this project is to provide an informative yet engaging experience for automobile enthusiasts and individuals looking to learn more about the automotive industry.
+
